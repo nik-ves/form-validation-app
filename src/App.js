@@ -4,9 +4,9 @@ import BasicForm from "./components/BasicForm";
 function App() {
   return (
     <div>
-      <div className="app">
+      {/* <div className="app">
         <SimpleInput />
-      </div>
+      </div> */}
 
       <div className="app">
         <BasicForm />
