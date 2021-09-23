@@ -15,7 +15,7 @@ body {
 
 .app {
   width: 90%;
-  max-width: 43rem;
+  max-width: 23rem;
   padding: 1rem;
   border-radius: 12px;
   background-color: white;
@@ -90,7 +90,7 @@ button:disabled:active {
 }
 
 .form-actions {
-  text-align: right;
+  text-align: center;
 }
 
 .form-actions button {
